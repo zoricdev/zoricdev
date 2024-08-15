@@ -8,7 +8,7 @@ I believe UI design extends beyond aesthetics, emphasizing the importance of cre
 
 My Tech Skills: 
 
-- HTML5 & CSS3 and JavaScript
+- HTML5, CSS3 and JavaScript
 - React.js
 - TypeScript
 - Tailwind CSS
