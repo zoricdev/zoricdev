@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there! 👋 I’m Relja, a front end engineer based in Brisbane, Australia.
 
-<!--
-**zoricdev/zoricdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites that make you go 'Whoa!' 🚀
 
-Here are some ideas to get you started:
+I enjoy integrating my technical expertise with design to create visually appealing and high-performing web applications. My goal is to develop scalable solutions that provide an engaging and seamless user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe UI design extends beyond aesthetics, emphasizing the importance of creating interfaces that are intuitive and user-centric.
+
+My Tech Skills: 
+
+- HTML5 & CSS3 and JavaScript
+- React.js
+- TypeScript
+- Tailwind CSS
+- Git & GitHub
+- Vite
