@@ -1,4 +1,4 @@
-Hi there! 👋 I’m [Relja](https://portfolio-pi-six-20.vercel.app/), a front end engineer based in Brisbane, Australia.
+Hi there! 👋 I’m [Relja](https://portfolio-pi-six-20.vercel.app/), a design-driven Software Engineer based in Brisbane, Australia.
 
 I build websites that make you go 'Whoa!' 🚀
 
