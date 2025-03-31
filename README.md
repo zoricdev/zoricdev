@@ -1,6 +1,6 @@
 Hi there! 👋 I’m [Relja](https://relja-portfolio.vercel.app/), a design-driven Software Developer based in Brisbane, Australia.
 
-I build websites that make you go 'Whoa!' 🚀
+I design and build websites/applications that make you go 'Whoa!' 🚀
 
 I enjoy integrating my technical expertise with design to create visually appealing and high-performing web applications. My goal is to develop scalable solutions that provide an engaging and seamless user experience.
 
