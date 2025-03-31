@@ -1,4 +1,4 @@
-Hi there! 👋 I’m [Relja](https://relja-portfolio.vercel.app/), a design-driven Software Engineer based in Brisbane, Australia.
+Hi there! 👋 I’m [Relja](https://relja-portfolio.vercel.app/), a design-driven Software Developer based in Brisbane, Australia.
 
 I build websites that make you go 'Whoa!' 🚀
 
