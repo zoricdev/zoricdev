@@ -1,4 +1,4 @@
-Hi there! 👋 I’m [Relja](https://zoriccreatives-io.vercel.app/), a design-driven Software Developer based in Brisbane, Australia.
+Hi there! 👋 I’m [Relja](https://portfolio-pi-six-20.vercel.app/), a design-driven Software Developer based in Brisbane, Australia.
 
 I design and build websites/applications that make you go 'Whoa!' 🚀
 
