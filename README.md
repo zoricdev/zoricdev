@@ -1,4 +1,4 @@
-## **Hi there! 👋**  
+# **Hi there! 👋**  
 
 I’m Relja, a design-driven Software Developer based in Australia.
 
