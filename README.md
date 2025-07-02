@@ -1,4 +1,4 @@
-<h2><strong>Hi there! <span style="font-size: 1.5em;">👋</span></strong></h2>
+**Hi there! 👋**  
 
 I’m Relja, a design-driven Software Developer based in Australia.
 
