@@ -1,4 +1,4 @@
-<p style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Hi there! 👋</p>
+<p style="font-size: 5em; font-weight: bold; margin-bottom: 0;">Hi there! 👋</p>
 
 <p>I’m Relja, a design-driven Software Developer based in Australia.</p>
 
