@@ -1,5 +1,5 @@
 **Hi there! 👋**
 
-I’m <a href="https://zoric-bi-analyst-portfolio.vercel.app/" style="text-decoration:none; color:inherit; font-weight:bold;">Relja</a>, a Business Intelligence Analyst and Software Developer based in Australia.
+I’m Relja, a design-driven software engineer based in Australia.
 
-I excel at transforming complex data into actionable insights and apply a data-driven approach to solving real-world challenges that enable informed decision-making. As a developer, I thrive on turning complex problems into simple, elegant solutions through code. Besides, my ability to foster collaborative relationships and build trust is an asset for driving innovation.
+I enjoy integrating technical expertise with design to create visually appealing and high-performing web applications. I thrive on turning complex problems into simple, elegant solutions through code.
