@@ -1,3 +1,3 @@
 **Hi there! 👋**
 
-I’m Relja, Oracle APEX developer based in Australia.
+I’m Relja, Software Developer & Data Analyst based in Australia.
