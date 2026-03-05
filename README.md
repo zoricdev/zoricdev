@@ -1,3 +1,3 @@
 **Hi there! 👋**
 
-I’m Relja, Software Developer & Data Analyst based in Australia.
+I’m Relja, Software Developer based in Australia.
